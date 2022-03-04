@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the Aksozlu-Foley Gallery
 
-You can use the [editor on GitHub](https://github.com/aaksozlu/INM716_Aksozlu_Foley/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Images
+link to images to go here
 
 ### Markdown
 

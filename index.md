@@ -1,9 +1,13 @@
 ## Welcome to the Aksozlu-Foley Gallery
 
 ## Images
-link to images to go here
+Here is our first attempt to bring the life of an oryx in a Qatari desert to you through a depth field view...
 ![oryx](https://user-images.githubusercontent.com/36861611/156750045-995133fd-e362-4ad0-bac8-644fcbd24961.png)
+
+Which chair would you choose?
 ![juxtaposition-in-design2](https://user-images.githubusercontent.com/36861611/156750060-28ab5041-a07e-4b58-a623-076bdf48c3a4.png)
+
+
 
 ### Markdown
 
